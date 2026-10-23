@@ -1,0 +1,5 @@
+# Never commit or upload these
+.env
+.venv/
+__pycache__/
+.claude/
